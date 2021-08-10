@@ -1,0 +1,47 @@
+{
+  "sections": [
+    "To read",
+    "To watch",
+    "To study",
+    "Tools"
+  ],
+  "types": [
+    "article",
+    "blog",
+    "telegram chat",
+    "telegram channel",
+    "benchmark",
+    "checklist",
+    "webinar",
+    "video",
+    "youtube",
+    "online",
+    "soft"
+  ],
+  "data": [
+    {
+      "id": 0,
+      "section": "To read",
+      "type": "article",
+      "name": "Onboarding",
+      "link": "https://www.dektry.com/onboarding-main",
+      "description": "Useful articles about company processes"
+    },
+    {
+      "id": 1,
+      "section": "To watch",
+      "type": "video",
+      "name": "NestJS fundamentals",
+      "link": "https://rutracker.net/forum/viewtopic.php?t=5979667",
+      "description": "NestJS fundamentals course"
+    },
+    {
+      "id": 2,
+      "section": "To watch",
+      "type": "video",
+      "name": "NestJS from zero",
+      "link": "https://mega.nz/folder/O4hV3LzD#At-KfTQc91UqGUxuzmWn4Q",
+      "description": "NestJS: zero to hero"
+    }
+  ]
+}
