@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b004932-065f-46c1-a029-f41c403035eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/2.0e871ea0.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/2.0e871ea0.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/main.4a292ba7.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/css/main.4a292ba7.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/2.5c5466b3.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/2.5c5466b3.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/2.5c5466b3.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.0165652a.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/main.0165652a.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime-main.78e8809b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/static/js/runtime-main.78e8809b.js.map" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/arr.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -90,7 +104,7 @@
             <path>
               <item name="knowledgebase" type="b2602c69:ProjectViewProjectNode" />
               <item name="knowledgebase" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="knowledgebase" type="b2602c69:ProjectViewProjectNode" />
@@ -149,16 +163,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628592064112</updated>
-      <workItem from="1628592065447" duration="8333000" />
+      <workItem from="1628592065447" duration="8547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8333000" />
+    <option name="totallyTimeSpent" value="8547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="961" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -333,7 +346,7 @@
     <entry file="file://$PROJECT_DIR$/arr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
