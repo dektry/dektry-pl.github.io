@@ -20,14 +20,6 @@
   ],
   "data": [
     {
-      "id": 0,
-      "section": "To read",
-      "type": "article",
-      "name": "Onboarding",
-      "link": "https://www.dektry.com/onboarding-main",
-      "description": "Useful articles about company processes"
-    },
-    {
       "id": 1,
       "section": "To watch",
       "type": "video",
